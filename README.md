@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# Chirp web UI to Vue 3 Practice
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Repositori ini adalah hasil dari projek latihan slicing dari design ke Vue 3
 
-## Recommended IDE Setup
+[Link Challenges](https://www.codewell.cc/challenges/javascript30-navbar--623f19001fa95910c7bf998e)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+ Tools yang digunakan : Vue 3 + Tailwind CSS
+
+[Live Link](https://willowy-zuccutto-f88e60.netlify.app/)
