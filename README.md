@@ -6,4 +6,4 @@ Repositori ini adalah hasil dari projek latihan slicing dari design ke Vue 3
 
  Tools yang digunakan : Vue 3 + Tailwind CSS
 
-[Live Link](https://willowy-zuccutto-f88e60.netlify.app/)
+[Live Link](https://stunning-otter-c01330.netlify.app/)
