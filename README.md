@@ -1,4 +1,4 @@
-# Chirp web UI to Vue 3 Practice
+# javascript30-navbar web UI to Vue 3 Practice
 
 Repositori ini adalah hasil dari projek latihan slicing dari design ke Vue 3
 
